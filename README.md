@@ -7,9 +7,9 @@ A complete data analytics and machine learning project that explores 9.4K+ films
 ## 📁 Project Structure
 
 - `Letterboxd_Analysis.ipynb`: Jupyter notebook containing data cleaning, EDA, ML modeling, clustering, sentiment analysis, and recommendation logic.
-- `Letterboxd_Dashboard.pbix`: Power BI dashboard with 4 pages of visual insights and interactive filters.
-- `report.pdf`: Final business report answering strategic questions with plots and interpretations.
-- `data/`: Cleaned and derived CSV files used for dashboard and analysis.
+- `Letterboxd Analytics Dashboard.pbix`: Power BI dashboard with 4 pages of visual insights and interactive filters.
+- `Letterboxd BI Report.pptx`: Final business report answering strategic questions with plots and interpretations.
+- `Letterbox Movie Classification Dataset.csv`: Cleaned and derived CSV files used for dashboard and analysis.
 - `README.md`: This file!
 
 ---
