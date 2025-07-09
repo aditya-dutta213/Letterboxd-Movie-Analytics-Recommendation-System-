@@ -1,15 +1,7 @@
 # 🎬 Letterboxd Movie Analytics & Recommendation System
 
-A complete data analytics and machine learning project that explores 9.4K+ films from the [Letterboxd Movie Classification Dataset](https://www.kaggle.com/datasets/sahilislam007/letterbox-movie-classification-dataset/data). This project includes exploratory data analysis, machine learning modeling, content-based recommendation, sentiment analysis, and a fully interactive Power BI dashboard.
+A complete data analytics and machine learning project that explores 9.4K+ films from the [Letterboxd Movie Classification Dataset](https://www.kaggle.com/datasets/sahilislam007/letterbox-movie-classification-dataset/data). This project includes exploratory data analysis, machine learning modeling, content-based recommendation, sentiment analysis, and a fully interactive Power BI dashboard. Analyzed 10K+ films using clustering, regression (XGBoost R2 = 0.79), and classification (88% accuracy) to uncover traits of blockbuster films, high-acclaim predictors, and audience sentiment across 0+ genres and 30+ languages. Built Power BI dashboards with KPIs, predictive insights, and content-based recommendations using TF-IDF + cosine similarity to inform user personalization and marketing strategy
 
-*Python, XGBoost, NLP, Power BI, Sklearn, Pandas*
- Oct 2024 – Nov 2024
- •
- Analyzed 10K+ films using clustering, regression (XGBoost R2 = 0.79), and classification (88% accuracy) to uncover traits of blockbuster films, 
-high-acclaim predictors, and audience sentiment across 0+ genres and 30+ languages
- •
- Built Power BI dashboards with KPIs, predictive insights, and content-based recommendations using TF-IDF + cosine similarity to inform user 
-personalization and marketing strategy
 ---
 
 ## 📁 Project Structure
